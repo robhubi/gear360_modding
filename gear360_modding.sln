@@ -5,6 +5,7 @@ VisualStudioVersion = 15.0.36324.19
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC79F13B-7C0B-4166-820F-A3BCBC2ACA6E}"
 	ProjectSection(SolutionItems) = preProject
+		ChangeLog.md = ChangeLog.md
 		gear360_mods_SD.zip = gear360_mods_SD.zip
 		keyscan360.c = keyscan360.c
 		README.md = README.md
